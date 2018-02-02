@@ -193,3 +193,99 @@ input[type=submit] {
     display: block;
     margin: 20px 100px;
 }
+
+
+div.img-wrapper{
+    float:left;
+    position:relative;
+    margin:10px;
+}
+
+
+.box1{
+    height:200px;
+    width:200px;
+}
+
+.box2{
+    height:200px;
+    width:200px;
+}
+
+.box3{
+    height:200px;
+    width:200px;
+}
+
+.box4{
+    height:200px;
+    width:200px;
+}
+
+div.description1{
+    position:absolute;
+    bottom:20px;
+    left:0px;
+    width:100%
+    background-color:#eeeeee;
+    color:#ffffff;
+    
+}
+
+div.description1 p{
+    padding:10px;
+    margin:0px;
+    font-size:30px;
+    text-align:center;
+}
+div.description2{
+    position:absolute;
+    bottom:20px;
+    left:0px;
+    width:100%
+    background-color:#eeeeee;
+    color:#ffffff;
+    
+}
+
+div.description2 p{
+    padding:10px;
+    margin:0px;
+    font-size:30px;
+    text-align:center;
+}
+
+div.description3{
+    position:absolute;
+    bottom:20px;
+    left:0px;
+    width:100%
+    background-color:#eeeeee;
+    color:#ffffff;
+    
+}
+
+div.description3 p{
+    padding:10px;
+    margin:0px;
+    font-size:30px;
+    text-align:center;
+}
+
+div.description4{
+    position:absolute;
+    bottom:20px;
+    left:0px;
+    width:100%
+    background-color:#eeeeee;
+    color:#ffffff;
+    
+}
+
+div.description4 p{
+    padding:10px;
+    margin:0px;
+    font-size:30px;
+    text-align:center;
+}
+}
