@@ -184,6 +184,11 @@ input[type=submit] {
     margin-left:10px;
     margin-top:10px;
 }
+
+.nat{
+   float:left;
+   margin: 0px 4px 0px 2px;
+}
 .row-one {
     display: block;
     margin: 20px 100px;
